@@ -1,0 +1,76 @@
+@CHARSET "ISO-8859-1";
+body 			{
+					background-color : #cbc8ff;
+				}
+.100	
+				{
+					width : 100%;
+				}
+#head			{
+					list-style-type: none;
+				}
+#headD			{
+					list-style-type: none;
+				}
+#container
+				{ 
+					width : 100%;
+					Height: 100%;
+					margin-top : 1px;
+					margin-right : 1px;
+					font: bold 22px, Arial, sans-serif;
+					background-color : #cbc8ff;
+				}
+#subcon 
+				{
+					background-color : #cbc8ff;
+					width : 100%;
+					height: 100%;
+				}
+#cont
+				{
+					background-color : #b3afff;
+					height: 100%;
+					margin-top : 10px;
+				}
+#cont li		{
+					list-style: none;
+					font-family: 'Trebuchet MS', verdana;
+					display: block;
+					margin: 1px;
+					float: left;
+				}
+.curved-box-long
+   				{
+   					position:absolute;
+   					top: 50px;
+    				left: 17%;
+  					width: 680px;
+   					background-color: #b3afff;
+				}
+
+.curved-box-long h2
+    			{
+   					background: #cbc8ff url(../../img/topcurvelong.png) no-repeat left top;
+   					color: #000000;
+    				padding: 10px 15px 5px 15px;
+				}
+
+.curved-box-long h3
+    			{
+    				background: #cbc8ff url(../../img/botcurvelong.png) no-repeat left bottom;
+    				margin: 0px;
+    				padding: 10px 15px 10px 15px;
+    				text-align: left;
+				}
+.curved-box-long p
+				{
+					text-align: center;
+				}
+h4 img  
+				{ 
+         			position:absolute;
+         			border: none;
+         
+				}
+#headD h2 img { position:absolute; left: 27%; border: none; }
